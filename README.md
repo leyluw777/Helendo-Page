@@ -12,6 +12,6 @@ Technologies that are used in project:
 * JavaScript
 
 ## Features
-What are features of website ?
+###### What are features of website ? <br />
 The main feature of website is the usage of slick slider via library. Slick slider was used 2 times, in the first section and also below demonstrating several products of shop. <br/>
 The responsiveness was written by media-queries.
